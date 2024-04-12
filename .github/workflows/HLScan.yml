@@ -9,7 +9,7 @@ jobs:
         id: scan_model
         uses: hiddenlayerai/hiddenlayer-model-scan-github-action@v0.1.1
         with:
-          model_path: ./models/pytorch_model.bin
+          model_path: modeling.py
         env:
           HL_CLIENT_ID: ${{ secrets.HL_CLIENT_ID }}
           HL_CLIENT_SECRET: ${{ secrets.HL_CLIENT_SECRET }}
