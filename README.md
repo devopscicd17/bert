@@ -1114,4 +1114,5 @@ For help or issues using BERT, please submit a GitHub issue.
 
 For personal communication related to BERT, please contact Jacob Devlin
 (`jacobdevlin@google.com`), Ming-Wei Chang (`mingweichang@google.com`), or
+hello word
 Kenton Lee (`kentonl@google.com`).
